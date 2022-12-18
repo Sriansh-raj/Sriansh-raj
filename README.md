@@ -1,11 +1,7 @@
-# Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sriansh Raj Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriansh-raj&label=Profile%20views&color=0e75b6&style=flat" alt="sriansh-raj" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriansh-raj" alt="sriansh-raj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sriansh_" target="blank"><img src="https://img.shields.io/twitter/follow/sriansh_?logo=twitter&style=for-the-badge" alt="sriansh_" /></a> </p>
 
