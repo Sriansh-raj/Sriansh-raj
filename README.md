@@ -1,3 +1,5 @@
+![Header](https://user-images.githubusercontent.com/99705533/208316424-31f5ff69-a15c-4f67-8bda-1e70d4d7c0dc.gif)
+
 <h1 align="center">Hi 👋, I'm Sriansh Raj Pradhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
