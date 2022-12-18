@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Sriansh-raj/Sriansh-raj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-## OMG! this mf is eating my contributions . . . 😫
+## OMG! this snake is eating my contributions . . . 😫
 ![snake gif](https://github.com/Sriansh-raj/Sriansh-raj/blob/output/github-contribution-grid-snake.gif)
