@@ -7,13 +7,13 @@
 
 <!-- <p align="left"> <a href="https://www.linkedin.com/in/sriansh-raj-pradhan-372939253/" target="blank"><img src="https://img.shields.io/twitter/follow/sriansh_?logo=twitter&style=for-the-badge" alt="sriansh_" /></a> </p> -->
 
-- 🔭 I’m currently working on **APIs**
+- 🔭 I’m currently working on **Neural Networks**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **Deep Learning, Machine Learning, Computer Vision**
 
-- 👯 I’m looking to collaborate on **frontend projects**
+- 👯 I’m looking to collaborate on **Python projects || Front-end Projects**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **AI || ML || CV || Front-end**
 
 - 📫 How to reach me ? **Come to my home :)**
 
