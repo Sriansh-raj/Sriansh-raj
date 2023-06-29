@@ -23,64 +23,84 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="https://linkedin.com/in/sriansh-raj-pradhan-372939253" target="blank">
+      <a href="https://linkedin.com/in/sriansh-raj-pradhan-372939253" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" height="48" alt="LinkedIn" />
       </a>
       <br>LinkedIn
     </td>
     <td align="center" width="96">
-      <a href="https://twitter.com/sriansh_" target="blank">
+      <a href="https://twitter.com/sriansh_" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" height="48" alt="Twitter" />
       </a>
       <br>Twitter
     </td>
     <td align="center" width="96">
-      <a href="https://stackoverflow.com/users/22050660" target="blank">
+      <a href="https://stackoverflow.com/users/22050660" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="48" height="48" alt="Stack Overflow" />
       </a>
       <br>Stack Overflow
     </td>
     <td align="center" width="96">
-      <a href="https://kaggle.com/srianshrajpradhan" target="blank">
+      <a href="https://kaggle.com/srianshrajpradhan" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="48" height="48" alt="Kaggle" />
       </a>
       <br>Kaggle
     </td>
     <td align="center" width="96">
-      <a href="https://www.codechef.com/users/sriansh_678" target="blank">
+      <a href="https://www.codechef.com/users/sriansh_678" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48" height="48" alt="CodeChef" />
       </a>
       <br>CodeChef
     </td>
     <td align="center" width="96">
-      <a href="https://www.hackerrank.com/rajsriansh2003" target="blank">
+      <a href="https://www.hackerrank.com/rajsriansh2003" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" height="48" alt="HackerRank" />
       </a>
       <br>HackerRank
     </td>
     <td align="center" width="96">
-      <a href="https://www.leetcode.com/sriansh_" target="blank">
+      <a href="https://www.leetcode.com/sriansh_" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="48" height="48" alt="LeetCode" />
       </a>
       <br>LeetCode
     </td>
     <td align="center" width="96">
-      <a href="https://www.hackerearth.com/@rajsriansh2003" target="blank">
+      <a href="https://www.hackerearth.com/@rajsriansh2003" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="48" height="48" alt="HackerEarth" />
       </a>
       <br>HackerEarth
     </td>
     <td align="center" width="96">
-      <a href="https://auth.geeksforgeeks.org/user/sriansh_raj" target="blank">
+      <a href="https://auth.geeksforgeeks.org/user/sriansh_raj" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48" height="48" alt="GeeksforGeeks" />
       </a>
       <br>GeeksforGeeks
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <a href="https://coderanch.com/u/424477/Sriansh-Raj" target="blank">
+      <a href="https://coderanch.com/u/424477/Sriansh-Raj" target="_blank">
         <img src="https://javaranch.com/images/javaranch-moose-logo.png" width="48" height="48" alt="Coderanch" />
       </a>
       <br>Coderanch
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.codingninjas.com/studio/profile/Sriansh" target="_blank">
+        <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" width="48" height="48" alt="Coding Ninjas" />
+      </a>
+      <br>Coding Ninjas
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.theforage.com/profile/vninTm6Lgh6DJWTXJ?ref=vninTm6Lgh6DJWTXJ" target="_blank">
+        <img src="https://cdn-assets.theforage.com/icons/forage/Forage_IconOnly_black.png" width="48" height="48" alt="Forage" />
+      </a>
+      <br>Forage
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.udemy.com/user/sriansh-raj-pradhan/" target="_blank">
+        <img src="https://w7.pngwing.com/pngs/306/302/png-transparent-udemy-hd-logo.png" width="32" height="48" alt="Udemy" />
+      </a>
+      <br>Udemy
     </td>
   </tr>
 </table>
