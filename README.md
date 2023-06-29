@@ -20,17 +20,70 @@
 - ⚡ Fun fact: **Knowing me is fun 😝**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sriansh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sriansh_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sriansh-raj-pradhan-372939253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sriansh-raj-pradhan-372939253" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22050660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22050660" height="30" width="40" /></a>
-<a href="https://kaggle.com/srianshrajpradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="srianshrajpradhan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sriansh_678" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sriansh_678" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajsriansh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajsriansh2003" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sriansh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sriansh_" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@rajsriansh2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rajsriansh2003" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sriansh_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sriansh_raj" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://linkedin.com/in/sriansh-raj-pradhan-372939253" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" height="48" alt="LinkedIn" />
+      </a>
+      <br>LinkedIn
+    </td>
+    <td align="center" width="96">
+      <a href="https://twitter.com/sriansh_" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" height="48" alt="Twitter" />
+      </a>
+      <br>Twitter
+    </td>
+    <td align="center" width="96">
+      <a href="https://stackoverflow.com/users/22050660" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="48" height="48" alt="Stack Overflow" />
+      </a>
+      <br>Stack Overflow
+    </td>
+    <td align="center" width="96">
+      <a href="https://kaggle.com/srianshrajpradhan" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="48" height="48" alt="Kaggle" />
+      </a>
+      <br>Kaggle
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.codechef.com/users/sriansh_678" target="blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48" height="48" alt="CodeChef" />
+      </a>
+      <br>CodeChef
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.hackerrank.com/rajsriansh2003" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" height="48" alt="HackerRank" />
+      </a>
+      <br>HackerRank
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.leetcode.com/sriansh_" target="blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="48" height="48" alt="LeetCode" />
+      </a>
+      <br>LeetCode
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.hackerearth.com/@rajsriansh2003" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="48" height="48" alt="HackerEarth" />
+      </a>
+      <br>HackerEarth
+    </td>
+    <td align="center" width="96">
+      <a href="https://auth.geeksforgeeks.org/user/sriansh_raj" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48" height="48" alt="GeeksforGeeks" />
+      </a>
+      <br>GeeksforGeeks
+    </td>
+    <td align="center" width="96">
+      <a href="https://coderanch.com/u/424477/Sriansh-Raj" target="blank">
+        <img src="https://javaranch.com/images/javaranch-moose-logo.png" width="48" height="48" alt="Coderanch" />
+      </a>
+      <br>Coderanch
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
