@@ -14,13 +14,13 @@
 
 - 💬 Ask me about **AI || ML || CV || Front-end**
 
-<h2>🎧 Vibing to . . .</h2>
+### Vibing to <img alt="Spotify" height="17" width="17" src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png"> . . .
 <div align="center">
 
 [![Spotify](https://novatorem-rho-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/31ecnstfkylmalgb7pbte46pekpi)
 
 </div>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me . . .</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -99,14 +99,26 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.udemy.com/user/sriansh-raj-pradhan/" target="_blank">
-        <img src="https://w7.pngwing.com/pngs/306/302/png-transparent-udemy-hd-logo.png" width="32" height="48" alt="Udemy" />
+        <img src="https://w7.pngwing.com/pngs/306/302/png-transparent-udemy-hd-logo.png" width="30" height="48" alt="Udemy" />
       </a>
       <br>Udemy
+    </td>
+    <td align="center" width="96">
+      <a href="https://open.spotify.com/user/31ecnstfkylmalgb7pbte46pekpi" target="_blank">
+        <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="48" height="48" alt="Udemy" />
+      </a>
+      <br>Spotify
+    </td>
+    <td align="center" width="96">
+      <a href="https://vercel.com/sriansh-raj" target="_blank">
+        <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="48" height="48" alt="Udemy" />
+      </a>
+      <br>Vercel
     </td>
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools . . .</h3>
 <p align="left">
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
