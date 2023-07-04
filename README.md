@@ -1,6 +1,7 @@
-![Header](https://user-images.githubusercontent.com/99705533/208316424-31f5ff69-a15c-4f67-8bda-1e70d4d7c0dc.gif)
+<!-- ![Header](https://user-images.githubusercontent.com/99705533/208316424-31f5ff69-a15c-4f67-8bda-1e70d4d7c0dc.gif) -->
+<img src="" />
 
-<h1 align="center">Hi 👋, I'm Sriansh Raj Pradhan</h1>
+<h1 align="center">Hi, I'm Sriansh Raj</h1>
 <h3 align="center">A passionate frontend developer and ML enthusiast from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriansh-raj&label=Profile%20views&color=0e75b6&style=flat" alt="sriansh-raj" /> </p> -->
