@@ -153,4 +153,5 @@
 
 
 ## OMG! this snake is eating my contributions . . . 😫
-![snake gif](https://github.com/Sriansh-raj/Sriansh-raj/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Sriansh-raj/Sriansh-raj/blob/output/github-contribution-grid-snake.gif) -->
+![gitartwork](gitartwork.svg)
