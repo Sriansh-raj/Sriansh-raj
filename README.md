@@ -31,9 +31,9 @@
     </td>
     <td align="center" width="96">
       <a href="https://twitter.com/sriansh_" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="48" height="48" alt="Twitter" />
+        <img src="https://w7.pngwing.com/pngs/748/680/png-transparent-twitter-x-logo-thumbnail.png" width="48" height="48" alt="𝕏" />
       </a>
-      <br>Twitter
+      <br>𝕏
     </td>
     <td align="center" width="96">
       <a href="https://stackoverflow.com/users/22050660" target="_blank">
