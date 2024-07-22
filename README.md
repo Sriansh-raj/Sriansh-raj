@@ -1,5 +1,5 @@
 <!-- ![Header](https://user-images.githubusercontent.com/99705533/208316424-31f5ff69-a15c-4f67-8bda-1e70d4d7c0dc.gif) -->
-<img src="/Media/GH%20readme.png" alt="Header" align="center">
+<img height="110em" src="/Media/GH%20readme.png" alt="Header" align="center">
 <h3 align="center">A passionate frontend developer and ML enthusiast from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriansh-raj&label=Profile%20views&color=0e75b6&style=flat" alt="sriansh-raj" /> </p> -->
@@ -144,11 +144,15 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriansh-raj&show_icons=true&locale=en&layout=compact" alt="sriansh-raj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriansh-raj&show_icons=true&locale=en" alt="sriansh-raj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&" alt="sriansh-raj" /></p>
+<a href="https://github.com/Sriansh-raj">
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
+  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
+  <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
+  <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
+  <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=nord_bright&utcOffset=5.3" alt="Sriansh Raj's github stats" /><br>
+  
+<P align="center"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" /></P>
 
 
 
