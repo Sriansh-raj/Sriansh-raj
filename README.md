@@ -23,83 +23,86 @@
 <h3 align="left">🌐Connect with me . . .</h3>
   <td align="center" width="96">
     <a href="https://linkedin.com/in/sriansh-raj-pradhan-372939253" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="48" height="48" alt="LinkedIn" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" />
     </a>
   </td>
+  &nbsp;&nbsp;&nbsp;
   <td align="center" width="96">
     <a href="https://twitter.com/sriansh_" target="_blank">
-      <img src="https://img.freepik.com/premium-photo/twitter-logo-icon-illustration-vector_895118-5891.jpg" width="48" height="48" alt="𝕏" />
+      <img src="https://img.freepik.com/premium-photo/twitter-logo-icon-illustration-vector_895118-5891.jpg" width="40" height="40" alt="𝕏" />
     </a>
   </td>
+  &nbsp;&nbsp;&nbsp;
   <td align="center" width="96">
     <a href="https://medium.com/@srianshrajpradhan" target="_blank">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShuT6h7Q5r67T89Z1aNd_Q_nVyp-WD01AFEQ&s" width="48" height="48" alt="Medium" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShuT6h7Q5r67T89Z1aNd_Q_nVyp-WD01AFEQ&s" width="40" height="40" alt="Medium" />
     </a>
   </td>
+  &nbsp;&nbsp;&nbsp;
   <td align="center" width="96">
     <a href="https://vercel.com/sriansh-raj" target="_blank">
-      <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="48" height="48" alt="Udemy" />
+      <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40" height="40" alt="Vercel" />
     </a>
   </td>
 <details> <summary>View more . . .</summary><br>
   <td align="center" width="96">
     <a href="https://www.leetcode.com/sriansh_" target="_blank">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="48" height="48" alt="LeetCode" />
+      <img src="https://cdn.iconscout.com/icon/free/png-256/free-leetcode-3521542-2944960.png" width="40" height="40" alt="LeetCode" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://stackoverflow.com/users/22050660" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="48" height="48" alt="Stack Overflow" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="40" alt="Stack Overflow" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://kaggle.com/srianshrajpradhan" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="48" height="48" alt="Kaggle" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="Kaggle" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://www.codechef.com/users/sriansh_678" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="48" height="48" alt="CodeChef" />
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40" alt="CodeChef" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://www.hackerrank.com/rajsriansh2003" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" height="48" alt="HackerRank" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://www.hackerearth.com/@rajsriansh2003" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="48" height="48" alt="HackerEarth" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="40" height="40" alt="HackerEarth" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://auth.geeksforgeeks.org/user/sriansh_raj" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="48" height="48" alt="GeeksforGeeks" />
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="40" alt="GeeksforGeeks" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://coderanch.com/u/424477/Sriansh-Raj" target="_blank">
-      <img src="https://javaranch.com/images/javaranch-moose-logo.png" width="48" height="48" alt="Coderanch" />
+      <img src="https://javaranch.com/images/javaranch-moose-logo.png" width="40" height="40" alt="Coderanch" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://www.codingninjas.com/studio/profile/Sriansh" target="_blank">
-      <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" width="48" height="48" alt="Coding Ninjas" />
+      <img src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" width="40" height="40" alt="Coding Ninjas" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://www.theforage.com/profile/vninTm6Lgh6DJWTXJ?ref=vninTm6Lgh6DJWTXJ" target="_blank">
-      <img src="https://cdn-assets.theforage.com/icons/forage/Forage_IconOnly_black.png" width="48" height="48" alt="Forage" />
+      <img src="https://cdn-assets.theforage.com/icons/forage/Forage_IconOnly_black.png" width="40" height="40" alt="Forage" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://www.udemy.com/user/sriansh-raj-pradhan/" target="_blank">
-      <img src="https://w7.pngwing.com/pngs/306/302/png-transparent-udemy-hd-logo.png" width="30" height="48" alt="Udemy" />
+      <img src="https://w7.pngwing.com/pngs/306/302/png-transparent-udemy-hd-logo.png" width="25" height="40" alt="Udemy" />
     </a>
   </td>
   <td align="center" width="96">
     <a href="https://open.spotify.com/user/31ecnstfkylmalgb7pbte46pekpi" target="_blank">
-      <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="48" height="48" alt="Udemy" />
+      <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="40" height="40" alt="Spotify" />
     </a>
   </td>
 </details>
@@ -134,14 +137,44 @@
 
 <h3 align="left">⚙️GitHub Analytics . . .</h3>
 <a href="https://github.com/Sriansh-raj">
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
-  <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
-  <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
-  <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
-  <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=nord_bright&utcOffset=5.3" alt="Sriansh Raj's github stats" /><br>
-  
-<P align="center"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" /></P>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=gotham">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=nord_bright">
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=nord_bright" alt="Profile Details">
+  </picture>
 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=gotham">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=nord_bright">
+    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=nord_bright" alt="Most repos lang">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=gotham">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=nord_bright">
+    <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=gotham">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=nord_bright">
+    <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=nord_bright" alt="Most commit lang">
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=gotham&utcOffset=5.3">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=nord_bright&utcOffset=5.3">
+    <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=nord_bright&utcOffset=5.3" alt="Time">
+  </picture>
+
+  <P align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright">
+      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
+    </picture>
+  </P>
+</a>
 
 
 ## OMG! this snake is eating my contributions . . . 😫
