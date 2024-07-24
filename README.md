@@ -15,6 +15,7 @@
 <div align="center">
 
 [![Spotify](https://novatorem-rho-dusky.vercel.app/api/spotify)](https://open.spotify.com/user/31ecnstfkylmalgb7pbte46pekpi)
+</div>
 
 ### 🌐Connect with me . . .
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sriansh-raj-pradhan-372939253)
@@ -92,14 +93,17 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
+<details> <summary>View more . . .</summary><br>
+
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
@@ -111,9 +115,9 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
@@ -121,50 +125,37 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white)
-
+</details>
 
 
 <h3 align="left">⚙️GitHub Analytics . . .</h3>
+<div align="center">
 <a href="https://github.com/Sriansh-raj">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=gotham">
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=nord_bright">
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=nord_bright" alt="Profile Details">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sriansh-raj&theme=nord_bright" alt="Profile Details">
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=gotham">
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=nord_bright">
-    <img height="155em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=nord_bright" alt="Most repos lang">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sriansh-raj&theme=nord_bright" alt="Most repos lang">
   </picture>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=gotham">
     <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=nord_bright">
-    <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats">
+    <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats">
   </picture>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=gotham">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=nord_bright">
-    <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sriansh-raj&theme=nord_bright" alt="Most commit lang">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright">
+    <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
   </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=gotham&utcOffset=5.3">
-    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=nord_bright&utcOffset=5.3">
-    <img height="157em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sriansh-raj&theme=nord_bright&utcOffset=5.3" alt="Time">
-  </picture>
-
-  <P align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright">
-      <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=sriansh-raj&theme=nord_bright" alt="Sriansh Raj's github stats" />
-    </picture>
-  </P>
 </a>
+</div>
 
 
 ## OMG! this snake is eating my contributions . . . 😫
